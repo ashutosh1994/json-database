@@ -1,0 +1,19 @@
+{
+  "name": "json-database",
+  "version": "1.0.0",
+  "description": "Simple dbms based on FileSystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh1994/json-database.git"
+  },
+  "author": "Ashutosh <ashutosh.ak2601@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashutosh1994/json-database/issues"
+  },
+  "homepage": "https://github.com/ashutosh1994/json-database#readme"
+}
